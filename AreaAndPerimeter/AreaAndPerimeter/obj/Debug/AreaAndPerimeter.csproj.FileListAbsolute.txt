@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.frmAreaAndPerimeter.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
