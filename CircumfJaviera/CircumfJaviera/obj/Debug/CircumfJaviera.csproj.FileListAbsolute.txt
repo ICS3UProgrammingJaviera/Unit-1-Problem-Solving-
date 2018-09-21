@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\bin\Debug\CircumfJaviera.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\bin\Debug\CircumfJaviera.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\bin\Debug\CircumfJaviera.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\obj\Debug\CircumfJaviera.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\obj\Debug\CircumfJaviera.frmCircumference.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\obj\Debug\CircumfJaviera.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\obj\Debug\CircumfJaviera.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\obj\Debug\CircumfJaviera.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Diaz, Javiera (s455309)\Unit 1 (Problem Solving)\CircumfJaviera\CircumfJaviera\obj\Debug\CircumfJaviera.pdb
