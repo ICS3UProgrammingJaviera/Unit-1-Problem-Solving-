@@ -1,0 +1,10 @@
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\bin\Debug\FallingObjectsJav.exe.config
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\bin\Debug\FallingObjectsJav.exe
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\bin\Debug\FallingObjectsJav.pdb
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.csprojAssemblyReference.cache
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.frmFallingObjects.resources
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.Properties.Resources.resources
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.csproj.GenerateResource.cache
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.csproj.CoreCompileInputs.cache
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.exe
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\Assignments\FallingObjectsJav\FallingObjectsJav\obj\Debug\FallingObjectsJav.pdb
